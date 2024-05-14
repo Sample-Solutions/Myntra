@@ -2,5 +2,3 @@ eagle
 swan
 duck
 hen
-vulture
-peacock
